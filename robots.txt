@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jvb94.github.io/myseeds-page/sitemap.xml
